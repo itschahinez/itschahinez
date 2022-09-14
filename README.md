@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chahinez</h1>
-<h3 align="center">A passionate fullstack developper with a background in Marketing living in France</h3>
+<h3 align="center">A junior fullstack developper with a background in Marketing</h3>
 
 - 🔭 I’m currently working on **a shopping search engine project**
 
