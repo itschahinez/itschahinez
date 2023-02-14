@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chahinez</h1>
-<h3 align="center">A junior fullstack developper with a background in Marketing</h3>
+<h3 align="center">A junior Product Owner with a background in Marketing</h3>
 
 - 🔭 I’m currently working on **a shopping search engine project**
 
 - 📫 How to reach me **chahinez.f.haddad@gmail.com**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning more about **product management**
 
 - 💬 Ask me about **branding for your product**
 
-- 📄 Know about my experiences **shorturl.at/fhlQW**
+- 📄 Know about my experiences in CV **shorturl.at/fhlQW**
 
-- ⚡ Fun fact **I lived in Budapest for 7 years!**
+- ⚡ Fun fact **I lived in Budapest for 6 years!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
